@@ -1,4 +1,3 @@
-
 {
   "name": "kata-tdd",
   "version": "1.0.0",
@@ -12,6 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos032n/atividade-agil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcos032n/atividade-agil/issues"
+  },
+  "homepage": "https://github.com/marcos032n/atividade-agil#readme"
 }
-
